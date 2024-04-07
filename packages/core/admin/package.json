@@ -58,7 +58,7 @@
     "chokidar": "3.5.3",
     "codemirror5": "npm:codemirror@^5.65.11",
     "cross-env": "^7.0.3",
-    "css-loader": "^6.8.1",
+    "css-loader": "^6.11.0",
     "date-fns": "2.30.0",
     "dotenv": "14.2.0",
     "esbuild-loader": "^2.21.0",
